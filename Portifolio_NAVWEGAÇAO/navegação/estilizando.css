@@ -1,0 +1,10 @@
+.nave ul li {
+    display: inline-block;
+    margin-right: 10%;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #070F18;
+}
+
+    
